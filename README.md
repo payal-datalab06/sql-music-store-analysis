@@ -110,3 +110,4 @@ Before publishing the CSV files publicly, confirm that the source dataset's lice
 - Country-level customer ranking in question 3 uses `invoice.billing_country`, as the question is based on sales transactions.
 - Genre popularity is measured by total quantity purchased, not by the number of distinct invoices.
 - No query outputs or business findings are claimed in this README until verified by running the scripts.
+- 
